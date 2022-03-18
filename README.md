@@ -39,3 +39,4 @@ This library is inspired by [dleitee/strman](https://github.com/dleitee/strman).
 License
 -------
 strman is licensed under the MIT License - see the `LICENSE` file for details.
+this is a simple test
